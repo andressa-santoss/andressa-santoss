@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonada por desenvolvimento de softwar
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Já atuei como QA! Então entendo as dores de cada lado em desenvolvimento.
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 - Linguagens: HTML, CSS, Javascript, Python
 - Ferramentas: Git, JIRA, VS Code
     
