@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, pessoal!!
 
-<!--
-**andressa-santoss/andressa-santoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou apaixonada por desenvolvimento de software e adoro criar soluções inovadoras. Aqui está um pouco sobre mim:
 
-Here are some ideas to get you started:
+- 📖 Atualmente fazendo bacharel em Ciência da Computação.
+- 🌱 Estou sempre aprendendo novas tecnologias e melhorando minhas habilidades.
+- 👯 Estou procurando colaborar em projetos de código aberto e soluções tecnológicas inovadoras.
+- 💬 Focando os estudo em projetos Front-end e Computação em Nuvem.
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fun fact: Já atuei como QA! Então entendo as dores de cada lado em desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e Ferramentas
+- Linguagens: HTML, CSS, Javascript, Python
+- Ferramentas: Git, JIRA, VS Code
+  
+  📫 Conecte-se Comigo
+- [LinkedIn]:(https://https://br.linkedin.com/in/andressa-santos-ab2881169/)
+  
+
+https://github-readme-stats.vercel.app/api?username=andressa-santoss&show_icons=true&theme=radical
+
+
