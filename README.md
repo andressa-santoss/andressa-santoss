@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonada por desenvolvimento de softwar
 ![Estatísticas do GitHub de Andressa](https://github-readme-stats.vercel.app/api?username=andressa-santoss&show_icons=true&theme=radical)
 
 ## 📫 Conecte-se Comigo
-- [LinkedIn](https://www.linkedin.com/in/andressa-santos)
+- [LinkedIn](https://www.linkedin.com/in/andressa-santos-ab2881169)
 
 Obrigado por visitar meu perfil!
 
