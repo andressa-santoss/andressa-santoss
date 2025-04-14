@@ -22,10 +22,9 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonada por desenvolvimento de softwar
 
       
 ## 📈 Estatísticas do GitHub
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-santoss&theme=dracula)<br><br>
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andressa-santoss&theme=dracula&show_icons=true)
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-santoss&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas de andressa-santoss" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressa-santoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de andressa-santoss" style="max-width: 100%;">
 
 
 ## 📫 Conecte-se Comigo
