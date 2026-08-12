@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-santoss&layout=compact&langs_count=7&theme=dracula&locale=en" alt="Most Used Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressa-santoss&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andressa-santoss&layout=compact&langs_count=7&theme=dracula&locale=en" alt="Most Used Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=andressa-santoss&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
 </div>
 
 ## 📫 Connect with me
