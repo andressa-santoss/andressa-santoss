@@ -1,18 +1,18 @@
-## Olá, pessoal! 👋
+## Hello, everyone! 👋
 
-Bem-vindos ao meu perfil do GitHub! Sou apaixonada por desenvolvimento de software e adoro criar soluções inovadoras. Aqui está um pouco sobre mim:
+Welcome to my GitHub profile! I'm passionate about software development and love creating innovative solutions. Here is a little about me:
 
-- 📖 Atualmente fazendo bacharelado em Ciência da Computação.
-- 🌱 Estou sempre aprendendo novas tecnologias e melhorando minhas habilidades.
-- 👯 Estou procurando colaborar em projetos de código aberto e soluções tecnológicas inovadoras.
-- 💬 Focando os estudos em projetos Front-end e Computação em Nuvem.
-- 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Já atuei como QA! Então entendo as dores de cada lado no desenvolvimento.
+- 📖 Currently pursuing a Bachelor's degree in Computer Science.
+- 🌱 I'm always learning new technologies and improving my skills.
+- 👯 Looking to collaborate on open-source projects and innovative tech solutions.
+- 💬 Focusing my studies on Front-end projects and Cloud Computing.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I used to work as a QA! So I understand the pain points on both sides of development.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack & Tools
 
-- **Linguagens:** HTML, CSS, JavaScript, Python
-- **Ferramentas:** Git, GitHub, JIRA, VS Code
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools:** Git, GitHub, JIRA, VS Code
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -22,16 +22,16 @@ Bem-vindos ao meu perfil do GitHub! Sou apaixonada por desenvolvimento de softwa
   <img src="https://img.shields.io/badge/Github-1a1e21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andressa-santoss&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andressa-santoss&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-santoss&layout=compact&langs_count=7&theme=dracula&locale=en" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressa-santoss&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
 </div>
 
-## 📫 Conecte-se comigo
+## 📫 Connect with me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressa-santos-ab2881169)
 
 ---
-Obrigada por visitar meu perfil!
+Thanks for visiting my profile!
